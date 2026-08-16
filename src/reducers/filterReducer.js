@@ -1,6 +1,5 @@
 const initialState = {
   filter: 'All',
-  addingSample : "NONE"
 }
 
 export const filterReducer = (state = initialState, action) => {
